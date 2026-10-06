@@ -1,0 +1,5 @@
+streamlit
+edge-tts
+sherpa-onnx
+numpy
+imageio-ffmpeg
